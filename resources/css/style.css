@@ -12,10 +12,6 @@ a {
   font-size: 18px;
 }
 
-.header {
-  background-image: url('./resources/the-flatiron-building.png');
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -32,14 +28,15 @@ p {
 }
 
 .header {
-  background-image: url("/Volumes/YOGATESOL/Projects/broadway/resources/the-flatiron-building.png");
+  background-image: url(../the-flatiron-building.png);
   color: white;
 }
+
 #divider{
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("/Volumes/YOGATESOL/Projects/broadway/resources/the-flatiron-building.png");
+  background-image: url(../the-flatiron-building.png);
 }
 
 #footer {
