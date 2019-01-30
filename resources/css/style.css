@@ -1,5 +1,50 @@
-<style type="text/css">
-.topnav {
-list-style-type: none;
+body {
+  text-align: center;
+  font-family: helvetica;
 }
-</style>
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+.header {
+  background-image: url('./resources/the-flatiron-building.png');
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.header {
+  background-image: url("/Volumes/YOGATESOL/Projects/broadway/resources/the-flatiron-building.png");
+  color: white;
+}
+#divider{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("/Volumes/YOGATESOL/Projects/broadway/resources/the-flatiron-building.png");
+}
+
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
